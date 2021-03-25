@@ -4,5 +4,9 @@
 </head>
 <body>
 <h1>hai</h1>
+<form action = "", method = "POST">
+<label>First Name:</label>
+<input type = "text" name ="FirstName" size="30"><br><br>
+</form>
 </body>
 </html>
